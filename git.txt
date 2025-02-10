@@ -1,0 +1,7 @@
+intis
+status
+log
+config
+ add
+commit (-m)
+checkout
